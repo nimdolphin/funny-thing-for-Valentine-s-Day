@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f4df5d50.css",
-    "main.js": "/static/js/main.8ad98fc6.js",
-    "static/media/heart.png": "/static/media/heart.56d758eeb36b7490b6ba.png",
-    "static/media/puc.jpeg": "/static/media/puc.e1d2bd516f1adb342f40.jpeg",
-    "static/media/lovecats.jpeg": "/static/media/lovecats.b443661812f4e78874ae.jpeg",
-    "static/media/jmyak.jpeg": "/static/media/jmyak.7596891b1e0208461e7a.jpeg",
-    "index.html": "/index.html",
-    "main.f4df5d50.css.map": "/static/css/main.f4df5d50.css.map",
-    "main.8ad98fc6.js.map": "/static/js/main.8ad98fc6.js.map"
+    "main.css": "/funny-thing-for-Valentine-s-Day/static/css/main.f4df5d50.css",
+    "main.js": "/funny-thing-for-Valentine-s-Day/static/js/main.4ffe4129.js",
+    "static/media/heart.png": "/funny-thing-for-Valentine-s-Day/static/media/heart.56d758eeb36b7490b6ba.png",
+    "static/media/puc.jpeg": "/funny-thing-for-Valentine-s-Day/static/media/puc.e1d2bd516f1adb342f40.jpeg",
+    "static/media/lovecats.jpeg": "/funny-thing-for-Valentine-s-Day/static/media/lovecats.b443661812f4e78874ae.jpeg",
+    "static/media/jmyak.jpeg": "/funny-thing-for-Valentine-s-Day/static/media/jmyak.7596891b1e0208461e7a.jpeg",
+    "index.html": "/funny-thing-for-Valentine-s-Day/index.html",
+    "main.f4df5d50.css.map": "/funny-thing-for-Valentine-s-Day/static/css/main.f4df5d50.css.map",
+    "main.4ffe4129.js.map": "/funny-thing-for-Valentine-s-Day/static/js/main.4ffe4129.js.map"
   },
   "entrypoints": [
     "static/css/main.f4df5d50.css",
-    "static/js/main.8ad98fc6.js"
+    "static/js/main.4ffe4129.js"
   ]
 }
