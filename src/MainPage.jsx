@@ -1,8 +1,8 @@
+import { Link } from "react-router-dom";
 import ButtonPuc from "./ButtonPuc";
 import puc from "./puc.jpeg";
 import heart from "./heart.png";
 import "./App.scss";
-import { Link } from "react-router-dom";
 
 const MainPage = () => {
   return (

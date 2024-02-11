@@ -1,7 +1,7 @@
-import lovecats from "./lovecats.jpeg";
-import "./App.scss";
-import ButtonPuc from "./ButtonPuc";
 import { Link } from "react-router-dom";
+import lovecats from "./lovecats.jpeg";
+import ButtonPuc from "./ButtonPuc";
+import "./App.scss";
 
 const LovePage = () => {
   return (
