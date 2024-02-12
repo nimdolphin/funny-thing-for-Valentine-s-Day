@@ -1,5 +1,5 @@
-import jmyak from "./jmyak.jpeg";
-import "./App.scss";
+import jmyak from "../../assets/images/jmyak.jpeg";
+import "../../App.scss";
 
 const Perduc = () => {
   return (

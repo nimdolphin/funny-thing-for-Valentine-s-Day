@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
-import LovePage from "./LovePage";
-import MainPage from "./MainPage";
-import Perduc from "./Perduc";
+import LovePage from "./components/LovePage";
+import MainPage from "./components/MainPage";
+import Perduc from "./components/Perduc";
 import "./App.scss";
 
 function App() {
